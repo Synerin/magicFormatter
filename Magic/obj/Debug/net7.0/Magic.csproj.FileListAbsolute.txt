@@ -1,0 +1,14 @@
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\Magic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\Magic.AssemblyInfoInputs.cache
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\Magic.AssemblyInfo.cs
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\Magic.csproj.CoreCompileInputs.cache
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\bin\Debug\net7.0\Magic.exe
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\bin\Debug\net7.0\Magic.deps.json
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\bin\Debug\net7.0\Magic.runtimeconfig.json
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\bin\Debug\net7.0\Magic.dll
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\bin\Debug\net7.0\Magic.pdb
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\Magic.dll
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\refint\Magic.dll
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\Magic.pdb
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\Magic.genruntimeconfig.cache
+C:\Users\jason\OneDrive\Documents\Projects\Programming\Magic\obj\Debug\net7.0\ref\Magic.dll
