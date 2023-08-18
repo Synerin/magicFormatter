@@ -6,6 +6,7 @@ y tho
 
 I think this file is neat
 https://github.com/Synerin/magicFormatter/blob/main/Magic/Colors/Identity.cs
+
 this one too
 https://github.com/Synerin/magicFormatter/blob/main/Magic/Colors/Program.cs
 
