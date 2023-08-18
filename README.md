@@ -16,3 +16,5 @@ this one too
 https://github.com/Synerin/magicFormatter/blob/main/Magic/Colors/Program.cs
 <br />
 ![pizza](https://github.com/Synerin/magicFormatter/blob/main/pizza.jpg?raw=true)
+<br />
+my oven sets the clock randomly when I press "Bake" sometimes
