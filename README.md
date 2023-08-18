@@ -7,3 +7,5 @@ y tho
 
 
 Decent amount of hard-coding
+
+(pizza)[https://github.com/Synerin/magicFormatter/blob/main/pizza.jpg?raw=true]
